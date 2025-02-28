@@ -33,11 +33,7 @@ release = "site"
 language="en"
 
 # -- General configuration ---------------------------------------------------
-pip install --upgrade sphinx
-version: 2
-sphinx:
-  # Path to your Sphinx configuration file.
-  configuration: docs/conf.py
+
 # Add any Sphinx extension module names here, as strings. They can be
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
